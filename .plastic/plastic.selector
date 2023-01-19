@@ -1,0 +1,4 @@
+repository "Pong@THO@cloud"
+  path "/"
+    br "/main"
+    co "/main"
